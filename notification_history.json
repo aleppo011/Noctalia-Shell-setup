@@ -1,0 +1,296 @@
+{
+  "change_serial": 43,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 2,
+      "notification": {
+        "actions": [],
+        "app_name": "starship",
+        "body": "Command execution  in 1m23s690ms ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786017760180,
+        "icon": "utilities-terminal",
+        "id": 1,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786017754180,
+        "summary": "Command finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 8,
+      "notification": {
+        "actions": [],
+        "app_name": "starship",
+        "body": "Command execution  in 3m40s581ms ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786103681212,
+        "icon": "utilities-terminal",
+        "id": 5,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786103675212,
+        "summary": "Command finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 10,
+      "notification": {
+        "actions": [],
+        "app_name": "starship",
+        "body": "Command execution  in 16m5s79ms ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786104248625,
+        "icon": "utilities-terminal",
+        "id": 6,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786104242625,
+        "summary": "Command finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 12,
+      "notification": {
+        "actions": [],
+        "app_name": "starship",
+        "body": "Command execution  in 3m6s809ms ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786104733407,
+        "icon": "utilities-terminal",
+        "id": 7,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786104727407,
+        "summary": "Command finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 14,
+      "notification": {
+        "actions": [],
+        "app_name": "starship",
+        "body": "Command execution  in 1m56s369ms ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786106346572,
+        "icon": "utilities-terminal",
+        "id": 10,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786106340572,
+        "summary": "Command finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 16,
+      "notification": {
+        "actions": [],
+        "app_name": "starship",
+        "body": "Command execution  in 4m47s117ms ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786112567290,
+        "icon": "utilities-terminal",
+        "id": 12,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786112561290,
+        "summary": "Command finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 18,
+      "notification": {
+        "actions": [],
+        "app_name": "starship",
+        "body": "Command execution  in 49s597ms ",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786112629030,
+        "icon": "utilities-terminal",
+        "id": 13,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786112623030,
+        "summary": "Command finished",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 26,
+      "notification": {
+        "actions": [
+          "default",
+          "Azione"
+        ],
+        "app_name": "Software",
+        "body": "Controllare gli aggiornamenti disponibili",
+        "category": null,
+        "desktop_entry": "org.gnome.Software",
+        "expiry_wall_ms": 1786211913286,
+        "icon": null,
+        "id": 35,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786211906913,
+        "summary": "Aggiornamenti scaduti",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": true
+    },
+    {
+      "active": true,
+      "close_reason": null,
+      "event_serial": 29,
+      "notification": {
+        "actions": [],
+        "app_name": "Welcome",
+        "body": "No internet connection!",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1786730009865,
+        "icon": "/usr/share/icons/Qogir/scalable/apps/gnome-warning.svg",
+        "id": 43,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1786729949865,
+        "summary": "Warning from Welcome",
+        "timeout": 60000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 33,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Material You Colors",
+        "body": "The name is not activatable",
+        "category": null,
+        "desktop_entry": "kde-material-you-colors",
+        "expiry_wall_ms": 1787686470137,
+        "icon": null,
+        "id": 46,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1787686464137,
+        "summary": "Could not get wallpaper",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 38,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Material You Colors",
+        "body": "The name is not activatable",
+        "category": null,
+        "desktop_entry": "kde-material-you-colors",
+        "expiry_wall_ms": 1787729323802,
+        "icon": null,
+        "id": 49,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1787729317802,
+        "summary": "Could not get wallpaper",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 39,
+      "notification": {
+        "actions": [],
+        "app_name": "Welcome",
+        "body": "No internet connection!",
+        "category": null,
+        "desktop_entry": null,
+        "expiry_wall_ms": 1787729378157,
+        "icon": "/usr/share/icons/Qogir/scalable/apps/gnome-warning.svg",
+        "id": 50,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1787729318157,
+        "summary": "Warning from Welcome",
+        "timeout": 60000,
+        "urgency": "normal"
+      },
+      "seen": false
+    },
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 42,
+      "notification": {
+        "actions": [],
+        "app_name": "KDE Material You Colors",
+        "body": "The name is not activatable",
+        "category": null,
+        "desktop_entry": "kde-material-you-colors",
+        "expiry_wall_ms": 1787731014863,
+        "icon": null,
+        "id": 58,
+        "image_data": null,
+        "origin": "external",
+        "received_wall_ms": 1787731008571,
+        "summary": "Could not get wallpaper",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    }
+  ],
+  "next_id": 60,
+  "version": 2
+}

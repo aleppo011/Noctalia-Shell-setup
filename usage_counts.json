@@ -1,0 +1,22 @@
+{
+  "Applications": {
+    "/usr/share/applications/blueman-manager.desktop": 2,
+    "/usr/share/applications/cmake-gui.desktop": 1,
+    "/usr/share/applications/codium.desktop": 10,
+    "/usr/share/applications/dev.noctalia.Noctalia.desktop": 1,
+    "/usr/share/applications/eos-apps-info.desktop": 1,
+    "/usr/share/applications/firefox.desktop": 4,
+    "/usr/share/applications/galaxybudsclient.desktop": 8,
+    "/usr/share/applications/helium.desktop": 41,
+    "/usr/share/applications/kitty.desktop": 30,
+    "/usr/share/applications/org.gnome.Software.desktop": 3,
+    "/usr/share/applications/org.kde.dolphin.desktop": 3,
+    "/usr/share/applications/org.kde.haruna.desktop": 1,
+    "/usr/share/applications/spotify-launcher.desktop": 2,
+    "/usr/share/applications/vim.desktop": 2,
+    "/usr/share/applications/welcome.desktop": 5,
+    "/var/lib/flatpak/exports/share/applications/com.discordapp.Discord.desktop": 2,
+    "/var/lib/flatpak/exports/share/applications/com.spotify.Client.desktop": 14,
+    "/var/lib/flatpak/exports/share/applications/org.kde.kwalletmanager.desktop": 1
+  }
+}
